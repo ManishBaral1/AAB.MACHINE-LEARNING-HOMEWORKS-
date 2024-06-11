@@ -1,6 +1,6 @@
 # MACHINE LEARNING/ DEEP LEARNING HOMEWORKS
 **Overview**
-Here, I have presented the jupyter notebook assignment solutions (that I have done along with my group member)  for the course  Machine Learning at ** Freie University Berlin ** with Professor Tim Landgraf. This course includes  Machine Learning in classical sense as well as introductory Neural Network/Deep Learning concepts.
+Here, I have presented the jupyter notebook assignment solutions (that I have done along with my group member)  for the course  Machine Learning at **Freie University Berlin** with Professor Tim Landgraf. This course includes  Machine Learning in classical sense as well as introductory Neural Network/Deep Learning concepts.
 
 
 
